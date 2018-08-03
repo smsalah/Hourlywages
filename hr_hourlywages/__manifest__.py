@@ -4,7 +4,7 @@
     'name': 'Hourly Wages',
     'description': 'Pay Hourly Salary using Hourly wage field on the contact.',
     'version': '11.0.0.0.0',
-    'website': 'https://smsalah.com/',
+    'website': 'https://github.com/smsalah/Hourlywages',
     'author': 'Sheikh M. Salahuddin <smsalah@gmail.com>',
     'license': 'AGPL-3',
     'category': 'Human Resources',
