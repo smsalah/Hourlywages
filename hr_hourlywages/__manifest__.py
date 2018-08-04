@@ -14,6 +14,6 @@
     ],
     'depends': [
         'hr_contract',
-		'hr_payroll',
+        'hr_payroll',
     ],
 }
