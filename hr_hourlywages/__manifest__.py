@@ -3,7 +3,7 @@
 {
     'name': 'Hourly Wages',
     'description': 'Pay Hourly Salary using Hourly wage field on the contact.',
-    'version': '11.0.0.0.0',
+    'version': '11.0.0.0.1',
     'website': 'https://github.com/smsalah/hourlywages',
     'author': 'Sheikh M. Salahuddin <smsalah@gmail.com>',
     'license': 'AGPL-3',
